@@ -6,7 +6,7 @@
 
 #### subject
 * [link_1](#link_1)
-* [link_2](p02.md)
+* [link_2](#link_2)
 * [Notes](#Notes)
 
 
