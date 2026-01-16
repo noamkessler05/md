@@ -1,0 +1,38 @@
+import { NewspaperLayout } from './components/NewspaperLayout'
+
+export default ({children}) => <NewspaperLayout>{children}</NewspaperLayout>
+
+<section className="md:col-span-3 border-r-2 border-stone-200 pr-6">
+  ## BREAKING: AI AGENTS ACHIEVE LOCAL AUTONOMY
+  
+  <LeadImage 
+    src="/path-to-image.jpg" 
+    caption="A terminal running local LLMs in a secure environment."
+  />
+
+  In a landmark development for 2026, developers have successfully deployed fully autonomous 
+  FastAPI services on offline hardware. This marks a shift from cloud-dependency to 
+  **Edge Intelligence**.
+
+  > "The ability to run complex MDX-driven documentation offline is a game changer for 
+  > secure sectors," says lead architect Yaron.
+
+  The transition has not been without hurdles. The `ModuleNotFoundError` remains the 
+  arch-nemesis of the junior dev, though local package mirroring has mitigated the risk.
+</section>
+
+<aside className="md:col-span-1 space-y-6">
+  ### EDITORIAL
+  **The Death of the Index.html**
+  Markdown has officially swallowed the web. With MDX becoming the default for 
+  documentation, the line between "content" and "code" has vanished.
+
+  <WeatherWidget location="London" temp="12°C" />
+
+  ---
+
+  ### MARKET WATCH
+  * **React:** ▲ 2.4%
+  * **FastAPI:** ▲ 5.1%
+  * **Python 3.14:** Stable
+</aside>
