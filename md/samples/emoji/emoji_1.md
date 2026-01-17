@@ -1,5 +1,19 @@
 
 # emoji list and uses
+
+# 🌟 01 — file Topic | subject
+
+## 📘 Table of Contents
+## 🐍 Python
+## 🖨️ Print 
+## 🔝 Back to Top
+## 🔢 Number 
+## 🔤 String 
+## 🔘 Boolean
+## 🕳️ Empty Variables 
+## 📝 Notes
+
+## 💬 Comments 
 ## 📱 App
 ## 📦 Model | package
 ## 🧭 3. Main Activity 
@@ -30,6 +44,9 @@
 ## ⚠️ warn | attantion
 ## 👉 Before I continue  
 ## 🧩 If | pazzel 
+
+
+
 ## 🧱 Step 1 
 ## 🧱 Step 2
 ## 🧱 Step 3
