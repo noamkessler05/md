@@ -12,7 +12,15 @@
 ## 🔘 Boolean
 ## 🕳️ Empty Variables 
 ## 📝 Notes
-
+## 📰 Newspaper 
+## ⚖️ HEADLINES
+## 📦 PROJECT
+## 🔍 ProjectName
+## README.md 🤦
+## ⭐ Stars
+## 🍴 Forks
+## 🐛 Issues
+✅ PRs Closed
 ## 💬 Comments 
 ## 📱 App
 ## 📦 Model | package
