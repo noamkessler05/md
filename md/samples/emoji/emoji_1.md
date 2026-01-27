@@ -29,15 +29,16 @@
 ## ✏️ 7. Edit | Delete
 ## 📝 2. Add an Edit
 ## 🎉 Final Result
-##  🔍 Search bar  
-##  🖼️ Contact photos  
-##  ⭐ Favorites  
-##  🔠 A–Z quick index  
-##  📤 Export | 📥 Import JSON  
-##  ☁️ Cloud sync  
+## 🔍 Search bar  
+## 🖼️ Contact photos  
+## ⭐ Favorites  
+## 🔠 A–Z quick index  
+## 📤 Export | 📥 Import JSON  
+## ☁️ Cloud sync  
 ## 🔐 PIN lock  
 ## 📞 Call history  
 ## 🗂️ Groups 
+## 📁 folder 
 ## 🔔 Bell | Contact groups  
 ## ✅ Step 1
 ## ✔ Layout
@@ -52,6 +53,9 @@
 ## ⚠️ warn | attantion
 ## 👉 Before I continue  
 ## 🧩 If | pazzel 
+## 🎉 party / result
+## 🌍 earth
+## 
 
 
 
