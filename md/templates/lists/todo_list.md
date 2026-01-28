@@ -1,5 +1,3 @@
-<a name="topage"></a>
-
 # Todo List
 
 ### Table_of_Content
@@ -16,7 +14,7 @@
    * [ ] todo a... 2
    * [ ] ...
 
-* [Top](#Table_of_Content)
+* [Top](#Todo-List)
 
 ----- 
 
@@ -26,6 +24,6 @@
    * [ ] todo a... 2
    * [ ] ...
 
-* [Top](#Table_of_Content)
+* [Top](#Todo-List)
 
 -----
