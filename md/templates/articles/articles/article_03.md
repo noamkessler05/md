@@ -21,7 +21,7 @@
 // ...
 ```
 
-🔗 [⬆ Back to Top](#article-3) 
+[⇧ Top ⬆](#article-3) 
 
 ---
 
@@ -32,7 +32,7 @@
 // ...
 ```
 
-🔗 [⬆ Back to Top](#article-3) 
+[⇧ Top ⬆](#article-3) 
 
 ## 🧩 Chapter 3 <a name="chapter-3"></a>
 
@@ -41,7 +41,7 @@
 // ...
 ```
 
-🔗 [⬆ Back to Top](#article-3) 
+[⇧ Top ⬆](#article-3) 
 
 
 ----- 
