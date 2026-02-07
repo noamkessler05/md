@@ -1,4 +1,4 @@
-<a name="⇧ Top ⬆age"></a> 
+<a name="topage"></a>
 
 # python_template
 
@@ -89,6 +89,6 @@ xxxx
 
 ----
 
-<p align="right">(<a href="#⇧ Top ⬆age">back to ⇧ Top ⬆</a>)</p>
+<p align="right">(<a href="#topage">back to top</a>)</p>
 <br/>
 <br/>
