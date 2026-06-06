@@ -62,9 +62,8 @@
 ## 🧩 If | pazzel 
 ## 🎉 party / result
 ## 🌍 earth
-## 
-
-
+##
+##
 
 ## 🧱 Step 1 
 ## 🧱 Step 2
